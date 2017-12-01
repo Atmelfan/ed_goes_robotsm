@@ -1,3 +1,6 @@
 [submodule "sensor_moduler"]
 	path = sensor_moduler
 	url = https://github.com/Atmelfan/st53l0x_modul
+[submodule "altium_libs"]
+	path = altium_libs
+	url = https://github.com/Atmelfan/altium_stdlib
