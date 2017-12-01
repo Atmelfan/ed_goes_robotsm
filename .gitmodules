@@ -1,0 +1,3 @@
+[submodule "sensor_moduler"]
+	path = sensor_moduler
+	url = https://github.com/Atmelfan/st53l0x_modul
