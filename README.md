@@ -14,7 +14,8 @@ Om du frakkar upp och ignorerar '--recurse-submodules' så måste du gå in i al
   
 
 #För att synka via Github for desktop:
-  1) Tydligen gör den det automatiskt.
+  1) ~~Tydligen gör den det automatiskt.~~ Den frakkar upp exakt allt.
+
 
 
 #Updatera individuella submoduler
