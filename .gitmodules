@@ -4,3 +4,6 @@
 [submodule "altium_libs"]
 	path = altium_libs
 	url = https://github.com/Atmelfan/altium_stdlib
+[submodule "mainboard"]
+	path = mainboard
+	url = git@github.com:Atmelfan/edgsm_mainboard.git
