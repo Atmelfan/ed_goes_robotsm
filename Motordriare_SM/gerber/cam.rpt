@@ -1,0 +1,18 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: F:\Motordriare_SM\cam.drl
+Format: 3.3
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.4000		24
+ 2 		0.7112		23
+ 3 		0.9000		62
+ 4 		1.0000		4
+ 5 		1.2000		8
+ 6 		1.4000		2
+ 7 		3.1000		4
